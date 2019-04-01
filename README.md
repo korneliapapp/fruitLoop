@@ -1,13 +1,19 @@
-### API Lab- fuitLoop
+## API Lab- fuitLoop
 This is the API Lab for the Programming II Couse part of the Bachelor of Science in Interaction Design at Malmö Universitet.
-This Lab and its coding examples were executed by Josefine Lagerstedt, Melika Ljutovic, Kornelia Papp, and Therese Casio Persson. Based on the AOS- Animate on scroll library http://michalsnik.github.io/aos/, these examples utilize the scroll animations and the elements the library offers to create new and exciting websites/animations.  
+This Lab and its coding examples were executed by Josefine Lagerstedt, Melika Ljutovic, Kornelia Papp, and Therese Casio Persson. Based on the AOS- Animate on scroll library https://github.com/michalsnik/aos, these examples utilize the scroll animations and the elements the library offers to create new and exciting websites/animations.  
+
+---
 
 ### About the Library
 AOS is a Small library to animate elements on your page as you scroll, it allows you to animate elements as you scroll down, and up.If you scroll back to top, elements will animate to it's previous state and become ready to animate again when you scroll back down.
 
+---
+
 ### About the project
 
 In these five example presented, we explored not only the animations that the library presented, but also speed, duration, anchor placements, other custom animations, and so on. We made these animations come to life by recreating interactive websites that could be made use of. 
+
+---
 
 ### Our examples
 Example 1:
@@ -16,6 +22,7 @@ Example 3:
 Example 4:
 Example 5:
 
+---
 
 
 
@@ -202,9 +209,12 @@ If you don't want to initialize AOS on `DOMContentLoaded` event, you can pass yo
 
 
 ### Animations predefined in the library
-Fade animations
-Flip animations
-Slide animations
-Zoom animations
-Anchor placement
-Easing functions
+There are some animations predefined in the library right on AOS, to see them in order to utilize them, visit the demo page by michalsnik http://michalsnik.github.io/aos/
+These animations include:
+- Fade animations
+- Flip animations
+- Slide animations
+- Zoom animations
+Other elements predefined options also include
+- Anchor placements
+- Easing functions
