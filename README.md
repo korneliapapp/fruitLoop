@@ -1,6 +1,6 @@
 ### API Lab- fuitLoop
 This is the API Lab for the Programming II Couse part of the Bachelor of Science in Interaction Design at Malmö Universitet.
-This Lab and its coding examples were executed by Josefine Lagerstedt, Melika Ljutovic, Kornelia Papp, and Therese Casio Persson. Based on the AOS- Animate on scroll library > http://michalsnik.github.io/aos/, these examples utilize the scroll animations and the elements the library offers to create new and exciting websites/animations.  
+This Lab and its coding examples were executed by Josefine Lagerstedt, Melika Ljutovic, Kornelia Papp, and Therese Casio Persson. Based on the AOS- Animate on scroll library http://michalsnik.github.io/aos/, these examples utilize the scroll animations and the elements the library offers to create new and exciting websites/animations.  
 
 ### About the Library
 AOS is a Small library to animate elements on your page as you scroll, it allows you to animate elements as you scroll down, and up.If you scroll back to top, elements will animate to it's previous state and become ready to animate again when you scroll back down.
@@ -200,84 +200,11 @@ If you don't want to initialize AOS on `DOMContentLoaded` event, you can pass yo
   </script>
 ```
 
-**Important note:** If you set `startEvent: 'load'` it will add event listener on `window` instead of `document`.
 
-
-### 👻 Animations
-
-There are serveral predefined animations you can use already:
-
-  * Fade animations:
-    * fade
-    * fade-up
-    * fade-down
-    * fade-left
-    * fade-right
-    * fade-up-right
-    * fade-up-left
-    * fade-down-right
-    * fade-down-left
-
-  * Flip animations:
-    * flip-up
-    * flip-down
-    * flip-left
-    * flip-right
-
-  * Slide animations:
-    * slide-up
-    * slide-down
-    * slide-left
-    * slide-right
-
-  * Zoom animations:
-    * zoom-in
-    * zoom-in-up
-    * zoom-in-down
-    * zoom-in-left
-    * zoom-in-right
-    * zoom-out
-    * zoom-out-up
-    * zoom-out-down
-    * zoom-out-left
-    * zoom-out-right
-
-### Anchor placement:
-
-  * top-bottom
-  * top-center
-  * top-top
-  * center-bottom
-  * center-center
-  * center-top
-  * bottom-bottom
-  * bottom-center
-  * bottom-top
-
-
-### Easing functions:
-
-You can choose one of these timing function to animate elements nicely:
-
-  * linear
-  * ease
-  * ease-in
-  * ease-out
-  * ease-in-out
-  * ease-in-back
-  * ease-out-back
-  * ease-in-out-back
-  * ease-in-sine
-  * ease-out-sine
-  * ease-in-out-sine
-  * ease-in-quad
-  * ease-out-quad
-  * ease-in-out-quad
-  * ease-in-cubic
-  * ease-out-cubic
-  * ease-in-out-cubic
-  * ease-in-quart
-  * ease-out-quart
-  * ease-in-out-quart
-
-
+### Animations predefined in the library
+Fade animations
+Flip animations
+Slide animations
+Zoom animations
+Anchor placement
+Easing functions
