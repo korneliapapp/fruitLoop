@@ -31,6 +31,12 @@ The Library used is the AOS - Animate on scroll library by michalsnik http://mic
 
 ---
 
+## To use this code or improve upon it
+
+Simple download this code and its necessary packages, and load it on live server to see it live on the server.
+
+---
+
 ## Who was responsible? 
 
 - For example 3 was Kornelia Papp responsible.
