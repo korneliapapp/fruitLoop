@@ -215,6 +215,7 @@ These animations include:
 - Flip animations
 - Slide animations
 - Zoom animations
+
 Other elements predefined options also include
 - Anchor placements
 - Easing functions
