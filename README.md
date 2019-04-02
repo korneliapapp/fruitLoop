@@ -15,12 +15,21 @@ In these five example presented, we explored not only the animations that the li
 
 ---
 
-### Our examples
-Example 1:
-Example 2:
-Example 3: 
-Example 4:
-Example 5:
+## Our examples
+### Example 1:
+Example 1 explores scroll speed and scroll duration when scrolling through the website. The speed code is inspired by another code pen example: (https://codepen.io/JTParrett/pen/BkDie). The speed duration function is a predefined option in the AOS library and allows to be manipulated with. 
+
+### Example 2:
+Example 2 uses the following animation example from code pen: (https://codepen.io/michalsnik/pen/EyxoNm?fbclid=IwAR2wXceBymvXnZrTRofTi5w9Zd-0OnJjFCyyRFezWbixEuAhsaqsilFVRus)and explores the possibility of using anchor points and anchor-placements based off of the scroll position. This example illustrates a way to create interactive stories through scrolling and to have images react to each other, creating a fun and virtual environment.
+
+### Example 3: 
+Example 3 uses the demo of the original AOS library http://michalsnik.github.io/aos/ as well as custom animations from this CodePen example that explores the same library https://codepen.io/michalsnik/pen/WxvNvE. It explores how content can pop up while a static background is visible and how the animated content popping up using different animations can enhance engagement and interest from viewers.
+
+### Example 4:
+Example 4 uses the following animation example from code pen: (http://codepen.io/michalsnik/pen/WxvNvE). It explores how content could be shown on websites through different animations such as: scrolling down while the background of an element changes from red to green to highlight a change. In this example instead of the background changing from red to green, we included a diagram to appear with the product as you scroll down to indicate properties of the product. This could be useful for interactive online menus, for example.
+
+### Example 5:
+Example 5 uses the demo of the original AOS library http://michalsnik.github.io/aos/. Taking the original demo with simply styled divs with text animating in on scroll, we incorporated graphics and more diverse animations to make the website come to life. This example is different from the other one created (interactive banana recipe) as it plays with an on-click event listener. However, the library does not respond to clicks, only scrolls, so we managed to cheat the system by making it appear as the animations are triggered by click by adding an event listener that scrolls down 800px on every click that shows the next row of graphics.
 
 ---
 
