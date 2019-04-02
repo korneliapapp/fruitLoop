@@ -4,10 +4,12 @@ This Lab and its coding examples were executed by Josefine Lagerstedt, Melika Lj
 
 ---
 
+
 ### About the Library
 AOS is a Small library to animate elements on your page as you scroll, it allows you to animate elements as you scroll down, and up.If you scroll back to top, elements will animate to it's previous state and become ready to animate again when you scroll back down.
 
 ---
+
 
 ### About the project
 
@@ -15,7 +17,10 @@ In these five example presented, we explored not only the animations that the li
 
 ---
 
+
+
 ## Our examples
+
 ### Example 1:
 Example 1 explores scroll speed and scroll duration when scrolling through the website. The speed code is inspired by another code pen example: (https://codepen.io/JTParrett/pen/BkDie). The speed duration function is a predefined option in the AOS library and allows to be manipulated with. 
 
