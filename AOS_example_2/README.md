@@ -1,7 +1,7 @@
 ## Mouse and birds
 This example uses code from a scrolling library (http://michalsnik.github.io/aos/) to create the structures for a interactive webpage.
 
-## Why the project is useful? 
+## Why is the the project usefull? 
 
 - The project can be used to create a more dynamic and fun webpage displaying your pictures. You can change the timing of the different animations using triggers according to the position of the pictures. Adding events is also a possibility.
 ---
